@@ -1,4 +1,4 @@
-# CONFIGURAÇÃO DOCKER PARA APACHE E PHP
+# Configuração Docker
 
 > Pilha Lamp (Linux(Docker) Apache, MySql, PHP)
 >
